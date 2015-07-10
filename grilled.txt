@@ -1,0 +1,14 @@
+Grilled Cheese Sandwich
+	Butter
+	Cheese
+	Toast
+	-
+	Pan with lid
+
+	1. Put the pan on the oven and set it to low heat
+	2. Butter one side of each toast, put the first toast with the buttery side down in the pan.
+	3. Add a thin slice of cheese onto the toast in the pan.
+	4. Put the second toast slice onto the cheese with the buttery side looking up.
+	5. Put the lid on the pan and wait until the butter on top of the toast is melted. The bottom toast should be gold-brown.
+	6. Flip the entire sandwich and wait for a little while until second toast is golden-brown as well.
+	7. Done.
